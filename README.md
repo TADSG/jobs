@@ -24,7 +24,7 @@ And please add information about:
 <!-- 也希望在順利徵得同事後回來將票 close 掉。
 
 <!-- 另外若有需要另外的 label 也請留言告知，  
-會盡力依職缺描述加上 label 以利搜尋。
+會盡力依職缺描述加上 label 以利搜尋。-->
 
 
 -----
