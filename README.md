@@ -13,7 +13,7 @@ And please add information about:
 
 -----
 
-### for employer (求才方):
+## for employer (求才方):
 
 歡迎至 [issues tab](https://github.com/TADSG/jobs/issues) 創建新的求才 issue！  
 必須附註薪資範圍，以供瀏覽者預估職能程度。
@@ -23,10 +23,20 @@ And please add information about:
 另外若有需要另外的 label 也請留言告知，  
 會盡力依職缺描述加上 label 以利搜尋。
 
+### 建議填寫項目
+ - 團隊簡介/地點
+ - 工作內容
+ - 能力需求
+ - 加分
+ - 薪資範圍
+ - 工時/特休
+ - 福利/推薦項
+ - 聯絡方式
+
 
 -----
 
-### for employee (求職方):
+## for employee (求職方):
 
 GitHub issues system 有非常方便的 label 與 filter 可以搭配使用，  
 例如要篩選從 2015-07-01 後更新過的職缺列表可使用下列的 filter 搭配搜尋：  
