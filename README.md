@@ -5,11 +5,25 @@ Welcome to our jobs board.
 
 Please create new issue in [issues tab](https://github.com/TADSG/jobs/issues).
 
-And please add information about:
+
+### And please add information about:
 
 + job description
 + salary range
 + contact method
+
+-----
+
+
+仕事掲示板にようこそう！
+どうか新しいイシューを　[issues tab](https://github.com/TADSG/jobs/issues)　で作ってください。
+
+### そしてどうか仕事関する詳細を書いてください
+ - チームの紹介/場所
+ - 仕事内容
+ - 必要能力
+ - 給料
+ - 連絡先
 
 -----
 
